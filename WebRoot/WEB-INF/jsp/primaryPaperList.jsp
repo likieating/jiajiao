@@ -311,5 +311,6 @@
 		　　  course.val(<%=request.getAttribute("course")%>);
 		}); 
 		</script>
+
 		
 	<jsp:include page="footer.jsp"></jsp:include>
