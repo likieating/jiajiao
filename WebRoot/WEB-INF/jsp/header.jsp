@@ -18,7 +18,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<meta name="renderer" content="webkit">
 	<meta name="viewport" content="width=1200">
 
-	<title>家教网_免费找家教_【四平家教网】_一对一在线辅导</title>
+	<title>家教网_免费找家教_【吉普斯家教网111】_一对一在线辅导</title>
 	<meta name="keywords" content="四平家教，四平家教兼职，四平兼职家教">
 	<meta name="description" content="四平家教网是四平家教行业权威上门和在线辅导平台,自2019年创立以来,已为四平数万学员提供一对一上门家教服务和中小学全科在线学习辅导。免费试课!182-5380-0650。">
 
@@ -151,7 +151,7 @@ var _hmt = _hmt || [];
 			<div class="w_1200">
 				<%--<h1 class="logo fl png_img"><a href="#"><img src="<%=basePath%>static/img/logo2.png" alt="雲朵家教"></a></h1>--%>
 				<h3 class="h_city fl">
-            <span class="png city_arrow">四平</span>
+            <span class="png city_arrow">成都</span>
             <p>
 				<a href="#" class="round_s city_btn" rel="nofollow">切换城市</a>
 			</p>
